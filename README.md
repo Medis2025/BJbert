@@ -35,7 +35,7 @@
 **Logits**:
 
 * $z_{gene} = H W_{gene} + b_{gene}$, $z_{dis} = H W_{dis} + b_{dis}$
-* $p_{gene} = \operatorname{softmax}(z_{gene})$, $p_{dis} = \operatorname{softmax}(z_{dis})$
+* $p_{gene} = {softmax}(z_{gene})$, $p_{dis} = {softmax}(z_{dis})$
 
 **Loss**:
 
