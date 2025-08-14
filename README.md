@@ -45,6 +45,7 @@ $$
 
 **Extensions**: Add more heads (e.g., relation extraction) or a lightweight **MoE gate** to softly route tokens to heads.
 
+![benchmark](graphs/ner_leaderboard_with_accuracy.png)
 ---
 
 ## 📊 Results
@@ -65,6 +66,7 @@ $$
 | **BioJointBERT (ours)** |    0.8654 | 0.9044 | 0.8844 |
 
 > **Note**: Numbers follow the exact splits and evaluation protocol described below. See the Reproducibility section for seeds and commands.
+
 
 ---
 
