@@ -46,6 +46,8 @@ $$
 **Extensions**: Add more heads (e.g., relation extraction) or a lightweight **MoE gate** to softly route tokens to heads.
 
 ![benchmark](graphs/ner_leaderboard_with_accuracy.png)
+
+![surface](graphs/surface_compare.png)
 ---
 
 ## 📊 Results
