@@ -48,6 +48,10 @@ $$
 ![benchmark](graphs/ner_leaderboard_with_accuracy.png)
 
 ![surface](graphs/surface_compare.png)
+
+![heatmap](graphs/heatmap.png)
+
+![radar](graphs/radar.png)
 ---
 
 ## 📊 Results
