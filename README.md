@@ -5,7 +5,7 @@
 [![Model](https://img.shields.io/badge/HF-BioLinkBERT--base-blue)](#)
 [![License](https://img.shields.io/badge/license-MIT-black)](#license)
 
-> **TL;DR**: BioJointBERT jointly trains **one shared BioLinkBERT encoder** with **two token classification heads** (gene & disease). It delivers **strong SOTA-like performance** on NCBI-Disease and a gene NER benchmark while remaining simple, fast, and reproducible.
+> **TL;DR**: BioJointBERT jointly trains **one shared BioLinkBERT encoder** with **two token classification heads** (gene & disease). It delivers **strong SOTA performance** on NCBI-Disease and a gene NER benchmark while remaining simple, fast, and reproducible.
 
 ---
 
